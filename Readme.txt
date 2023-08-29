@@ -16,3 +16,6 @@ git remote -v-Muestra una lista de los repositorios remotos conectados y sus URL
 git checkout -b [nombre_de_rama]-Crea una nueva rama y cambia a ella en un solo comando.
 git remote add [nombre] [URL]-Agrega un nuevo repositorio remoto con un nombre específico.
 git fetch-Descarga cambios desde el repositorio remoto sin fusionarlos.
+
+Comentario:
+Git me parece una herramienta necesaria porque tiene muchas utilidades como el control de versiones que facilita la correcion de errores y la colaboracion en proyectos
